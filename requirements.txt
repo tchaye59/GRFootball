@@ -1,0 +1,7 @@
+gfootball~=2.5
+kaggle_environments
+gym~=0.17.2
+tensorflow~=2.2.0
+numpy~=1.19.1
+scipy~=1.5.2
+dill~=0.3.2
